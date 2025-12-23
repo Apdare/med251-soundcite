@@ -1,0 +1,26 @@
+index.html
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Lexus LFA SoundCite</title>
+
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/soundcite/latest/css/player.css">
+  <script src="https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js"></script>
+</head>
+
+<body style="font-family: Arial, sans-serif; padding: 40px;">
+
+  <p style="font-size:22px; line-height:1.6;">
+    The Lexus LFA became the loudest scream in automotive history — not just an
+    <span class="soundcite"
+          data-url="https://www.dropbox.com/scl/fi/8sxlm9g1bcje07d5drq97/lfa-v10.MP3?rlkey=n8s5ajvo2nvkwxqdvnyyrq2ev&raw=1"
+          data-start="0"
+          data-end="120000">
+      engine sound
+    </span>,
+    but a mechanical cry engineered to be felt, not simply heard.
+  </p>
+
+</body>
+</html>
